@@ -1,5 +1,7 @@
 # Glass-morphism Example
 
+![banner](screenshot/xml_repo_banner.png)
+
 ## Overview
 
 This project showcases the **Glass-morphism** design trend in Android development **using Kotlin and Custom XML View**. It
