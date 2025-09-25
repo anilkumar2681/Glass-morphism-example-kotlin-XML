@@ -1,12 +1,12 @@
-# Glassmorphism Example
+# Glass-morphism Example
 
 ## Overview
 
-This project showcases the Glassmorphism design trend in Android development using Kotlin. It demonstrates how to implement frosted glass UI elements that blur the background, providing a sleek and modern aesthetic.
+This project showcases the Glass-morphism design trend in Android development using Kotlin. It demonstrates how to implement frosted glass UI elements that blur the background, providing a sleek and modern aesthetic.
 
 ## Features
 
-- Implementation of Glassmorphism using Kotlin and Android SDK.
+- Implementation of Glass-morphism using Kotlin and Android SDK.
 - Customizable UI components with blur effects.
 - Responsive layouts for various screen sizes.
 
@@ -19,19 +19,19 @@ This project showcases the Glassmorphism design trend in Android development usi
 
 ### Installation
 
-1. Clone the repository:
+- Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/anilkumar2681/glass-morphism_example.git
 ```
-2. Open the project in Android Studio.
-3. Build and run the application on an emulator or physical device.
+- Open the project in Android Studio.
+- Build and run the application on an emulator or physical device.
 
-## Uses
-Explore the app/src/main/res/layout directory to find XML files demonstrating various Glassmorphism components. Each layout showcases different blur effects and UI elements.
+### Uses
+Explore the app/src/main/res/layout directory to find XML files demonstrating various Glass-morphism components. Each layout showcases different blur effects and UI elements.
 
-## Contributing
+### Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
 
-## License
+### License
 This project is licensed under the MIT License.
