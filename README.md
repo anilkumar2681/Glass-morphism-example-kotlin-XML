@@ -49,4 +49,4 @@ request with your proposed changes.
 This project is licensed under the MIT License.
 
 ### WhatsApp Channel
-Get daily Kotlin and Jetpack Compose tips: [Join WhatsApp Channel] (https://whatsapp.com/channel/0029VbBGTNr90x2umLoWKU3z)
+Get daily Kotlin and Jetpack Compose tips: ![Join WhatsApp Channel] (https://whatsapp.com/channel/0029VbBGTNr90x2umLoWKU3z)
