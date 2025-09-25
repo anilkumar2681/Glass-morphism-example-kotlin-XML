@@ -27,14 +27,11 @@ This project showcases the Glassmorphism design trend in Android development usi
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
 
-### Uses
-
+## Uses
 Explore the app/src/main/res/layout directory to find XML files demonstrating various Glassmorphism components. Each layout showcases different blur effects and UI elements.
 
-### Contributing
-
+## Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
 
-### License
-
+## License
 This project is licensed under the MIT License.
