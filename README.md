@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project showcases the Glass-morphism design trend in Android development using Kotlin. It
+This project showcases the **Glass-morphism** design trend in Android development **using Kotlin and Custom XML View**. It
 demonstrates how to implement frosted glass UI elements that blur the background, providing a sleek
 and modern aesthetic.
 
 ## Features
 
-- Implementation of Glass-morphism using Kotlin and Android SDK.
+- Implementation of Glass-morphism using Kotlin, **Custom XML View** and Android SDK.
 - Customizable UI components with blur effects.
 - Responsive layouts for various screen sizes.
 
